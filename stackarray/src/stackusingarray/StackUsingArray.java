@@ -56,6 +56,6 @@ public class StackUsingArray {
         stk.push(30);
         stk.push(20);
         stk.push(210);
-        System.out.println("element poped out : " + stk.pop());
+        System.out.println("element popped out : " + stk.pop());
     }
 }
