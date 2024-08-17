@@ -1,4 +1,4 @@
-package binarysearchusingrecursion;
+package Searches.src.binarysearchusingrecursion;
 
 import java.util.Arrays;
 

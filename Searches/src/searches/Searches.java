@@ -1,4 +1,4 @@
-package searches;
+package Searches.src.searches;
 
 public class Searches {
 

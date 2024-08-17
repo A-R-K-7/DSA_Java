@@ -1,4 +1,4 @@
-package binarysearchbuiltin;
+package Searches.src.binarysearchbuiltin;
 
 import java.util.Arrays;
 

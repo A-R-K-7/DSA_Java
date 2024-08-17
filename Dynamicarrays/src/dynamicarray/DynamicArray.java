@@ -95,6 +95,9 @@ public class DynamicArray {
         Array a1 = new Array(1);
         a1.insert(10);
         a1.insert(20);
+        a1.insert(30);
+        a1.insert(40);
+        a1.insert(50);
         a1.print();
     }
 }
